@@ -1,0 +1,4 @@
+openai==0.31.0
+googletrans==4.0.0-rc1
+pyttsx3==2.90
+SpeechRecognition==3.8.1
