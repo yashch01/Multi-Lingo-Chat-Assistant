@@ -41,6 +41,6 @@ This project is for demonstration purposes and may require appropriate API keys 
 
 YASH,
 TULSI SHARMA,
-VISHNU SINGH,
+VISHNU SINGH
 
 Feel free to contribute, report issues, or suggest improvements by submitting pull requests or opening issues in the GitHub repository. Your feedback is valuable in enhancing the MultiLingo Chat Assistant.
